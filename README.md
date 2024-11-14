@@ -1,2 +1,2 @@
-# network-intrusion-detection-system
- This a Network intrusion detction system project with machine learning techniques.
+# Network-Intrusion-detection-system(NIDS)
+A machine learning-based Network Intrusion Detection System (NIDS) uses sophisticated algorithms to recognize and categorize possible intrusions by learning from historical data trends. By using labeled data sets for training, this kind of NIDS examines network traffic and differentiates between legitimate and questionable activity. To find intricate attack patterns and zero-day threats that conventional approaches would overlook, machine learning techniques such as supervised learning (e.g., decision trees, support vector machines), unsupervised learning (e.g., clustering), and deep learning models  are employed.
